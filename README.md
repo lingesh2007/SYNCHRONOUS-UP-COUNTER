@@ -67,8 +67,13 @@ RegisterNumber:LINGESH D
 <img width="1920" height="1080" alt="Screenshot 2025-12-10 112829" src="https://github.com/user-attachments/assets/854dd608-480d-4ed6-b431-b31543e49880" />
 
 **TRUTH TABLE**
+
+
+
 ![WhatsApp Image 2025-12-10 at 11 23 13 AM](https://github.com/user-attachments/assets/3692ea5b-2509-4c0b-a3d4-9567a7881b4c)
 
 
 **RESULTS**
+
+
 Thus  4 bit synchronous up counter and validate functionality verified.
